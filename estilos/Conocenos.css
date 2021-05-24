@@ -1,0 +1,83 @@
+.navbar-brand{
+    font-family: Segoe print;
+    font-size: 15px;
+    background:#F318A2;
+   
+}
+.container-fluid{
+    background: #F318A2;
+    font-size: 18px;
+    font-family: Segoe print;
+   margin-top: 0%;
+   padding-top: 0%;
+}
+
+
+.bloqueConocenos{
+    box-sizing:border-box ;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-image:url(../imagenes/fondo_bloque_conocenos.jpg)
+    
+}
+h1{
+    color:#F318A2;
+    font-size: 30px;
+    font-family: Segoe print;
+    text-align: center;
+}
+p{
+    color:#2D1C27;
+    font-size: 18px;
+    font-family: Segoe print;
+    text-align: center;
+}
+.bloque2{
+    background: #F318A2;
+    color:white;
+    font-size: 30px;
+    font-family: Segoe print;
+    text-align: center;
+}
+.formulario{
+    
+    font-size: 15px;
+    font-family: Segoe print;
+    background: #fc9cd9;
+    margin-top: -10px;
+    padding: 10px; ;
+    text-align: center;
+
+
+}
+.form-control{
+    font-size: 15px;
+    font-family: Segoe print;
+    margin-top: -10px;
+    padding: 10px; ;
+    text-align: center;
+    display: space-around;
+
+}
+
+.iconosredes{
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    background: #f1b9dd;
+    
+}
+
+.textofooter{
+    padding: 10px;
+    padding-bottom: 10px;
+    height: 30px;
+    font-size: 15px;
+    font-family: Segoe print;
+    text-align: center;
+    background: #f1b9dd;
+    margin-bottom: auto;
+
+}
